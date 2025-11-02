@@ -9,7 +9,7 @@
 // @run-at       document-start
 // @grant        unsafeWindow
 // @icon         https://i.postimg.cc/y6Gx5NBD/volcano.png
-// @downloadURL  https://github.com/dyr14n/bypass/raw/main/volcano.user.js
-// @updateURL    https://github.com/dyr14n/bypass/raw/main/volcano.user.js
-// @require      https://github.com/dyr14n/bypass/raw/main/bypassvolcano.js
+// @downloadURL  https://github.com/itsSunnyyy/volcano/raw/main/volcano.user.js
+// @updateURL    https://github.com/itsSunnyyy/volcano/raw/main/volcano.user.js
+// @require      https://github.com/itsSunnyyy/volcano/raw/main/bypassvolcano.js
 // ==/UserScript==
