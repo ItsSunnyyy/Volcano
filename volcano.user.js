@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Auto Bypass Volcano
+// @name         Volcano Bypass
 // @namespace    http://tampermonkey.net/
 // @version      1.6.2.4
 // @description  You only need to solve the captcha
